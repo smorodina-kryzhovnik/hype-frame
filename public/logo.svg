@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Letter H (centered left) -->
+  <rect x="40" y="40" width="30" height="120" fill="#f3f4f6"/> <!-- Left vertical of H -->
+  <rect x="90" y="40" width="30" height="120" fill="#f3f4f6"/> <!-- Right vertical of H -->
+  <rect x="80" y="90" width="40" height="20" fill="#f3f4f6"/> <!-- Horizontal bar of H -->
+
+  <!-- Letter F (centered right) -->
+  <rect x="130" y="40" width="30" height="120" fill="#f3f4f6"/> <!-- Vertical stem of F -->
+  <rect x="130" y="40" width="40" height="30" fill="#f3f4f6"/> <!-- Top horizontal of F -->
+  <rect x="130" y="90" width="40" height="20" fill="#f3f4f6"/> <!-- Middle horizontal of F -->
+</svg>
